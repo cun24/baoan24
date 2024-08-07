@@ -1,15 +1,15 @@
 const textConfig = {
-    text1: "Hello con yêu của mẹ",
+    text1: "Hello con yêu của Ba mẹ",
     text2: "Chúc con một ngày thật vui^^",
     text3: "Con có muốn nhận quà gì trong ngày sinh nhật của mình ._.",
     text4: "Nhớ suy nghĩ kĩ rồi chọn nhé :v",
     text5: "nhận quà ",
     text6: "kó nhé",
-    text7: "Viết gì đó về mẹ đi nào (20 từ)",
+    text7: "Viết gì đó về ba mẹ đi nào (20 từ)",
     text8: "Gửi",
-    text9: "Mẹ luôn là người mẹ vĩ đại nhất của con <33",
-    text10: "Cám ơn con ^^",
-    text11: "Cảm ơn con luôn là điểm tựa để mẹ cố gắng từng ngày =))",
+    text9: "Ba Mẹ luôn là người vĩ đại nhất của con <33",
+    text10: "Cám ơn con yêu ^^",
+    text11: "Cảm ơn con luôn là điểm tựa để ba mẹ cố gắng từng ngày =))",
     text12: "Quà của con nè <3",
 };
 
@@ -34,7 +34,7 @@ $(document).ready(function() {
         Swal.fire({
             title: textConfig.text1,
             text: textConfig.text2,
-            imageUrl: "img/cuteCat.jpg",
+            imageUrl: "image/cun1.jpg",
             imageWidth: 300,
             imageHeight: 300,
             background: '#fff url("img/iput-bg.jpg")',
